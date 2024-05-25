@@ -43,6 +43,8 @@ INSTALLED_APPS = [
 
     # apps
     'apps.settings',
+    'apps.news',
+    # 'apps.team', 
 
     # rest
     'rest_framework',
